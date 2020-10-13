@@ -12,7 +12,7 @@ search = "#HastagExample"
 nrTweets = 1000
 for tweet in tweepy.Cursor(api.search, search).items(nrTweets):
     try:
-        print('Tweet Liked and Retweet')
+        print('Tweet Liked')
         tweet.favorite()
         time.sleep(10)
     except tweepy.TweepError as e:
