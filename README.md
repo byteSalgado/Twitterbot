@@ -17,7 +17,7 @@
 **TwitterBot** es un framework diseñado que utiliza el modulo tweepy de python que funciona a travez de un API en las cuentas desarrolladores de twitter. A travez de la creacion de un aplicacion se nos mostrara 4 datos que deberemos introducirlos en el script para loguearnos en nuestra cuenta de twitter y poder utilizar las funciones de un bot como
 retwittear o dar fav
 
-## Funciones Web Attacks v3.0
+## Funciones TwitterBot v1.0
 
 | Funcion       |   Informacion                                                     |
 |---------------|-------------------------------------------------------------------| 
